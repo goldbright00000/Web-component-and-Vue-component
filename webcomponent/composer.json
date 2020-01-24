@@ -1,0 +1,13 @@
+{
+    "name": "Romantimofficial/material-dashboard",
+    "description": "Material Dashboard - Free Bootstrap Material Design Admin",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roman Tim",
+            "email": "hello@Roman-tim.com"
+        }
+    ],
+    "require": {}
+}
